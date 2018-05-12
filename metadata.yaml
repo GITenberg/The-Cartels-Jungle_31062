@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31427'
     url: http://www.gutenberg.org/2009/agents/31427
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31062#The-Cartels-Jungle
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-03-16'
 gutenberg_type: Text
